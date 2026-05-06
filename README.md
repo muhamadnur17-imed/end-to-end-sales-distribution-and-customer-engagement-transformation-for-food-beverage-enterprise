@@ -1,0 +1,2 @@
+# end-to-end-sales-distribution-and-customer-engagement-transformation-for-food-beverage-enterprise
+This capstone project focuses on the implementation of a Salesforce CRM solution for FreshBite Foods, a rapidly expanding food and beverage company. The project simulates a real-world business scenario where FreshBite Foods faces operational challenges due to disparate systems and manual processes. The project requires students to perform a compreh
